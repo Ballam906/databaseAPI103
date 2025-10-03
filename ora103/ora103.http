@@ -1,0 +1,6 @@
+@ora103_HostAddress = http://localhost:5007
+
+GET {{ora103_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
